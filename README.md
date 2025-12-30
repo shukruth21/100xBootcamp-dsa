@@ -1,3 +1,2 @@
-# 100xBootcamp-aiml
-# 100xBootcamp-dsa
+
 # 100xBootcamp-dsa
